@@ -1,0 +1,2 @@
+# docs
+Luna Fantasy Document
