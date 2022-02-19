@@ -23,7 +23,7 @@ Luna Fantasy is a 16 bits fantasy console, inspired by Gameboy and the NES, writ
 |`$2670` |`$FFFF` | Main memory (54kb)           | Main memory  |
 |`$FFFF` |`$XXXX` | Stack                        | Stack        |
 
-1. Sprite
+1. Sprite <br>
 A sprite has 2 byte for the X position, 2 bytes for the Y position,
 1 byte for the tileIndex on the Tile memory, 1 byte for the animationIndex,
 1 byte for the blendMode, and 9 bytes for the data, beign 14 bytes long.
