@@ -1,8 +1,8 @@
 # Luna Fantasy - Documentation
 
 1. [Introduction](#introduction)
-    1. [Memory](#memory)
-    1. [Colors](#colors)
+1. [Memory](#memory)
+1. [Colors](#colors)
 
 ## Introdution
 
