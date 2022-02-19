@@ -12,7 +12,7 @@ Luna Fantasy is a 16 bits fantasy console, inspired by Gameboy and the NES, writ
 
 | Start  | End    | Description                  | Notes        |
 |--------|--------|------------------------------|--------------|
-|`$0000` |`$FFFF` | Main memory (64kb)           | whole memory |
+|`$0000` |`$FFFF` | Whole memory (64kb)          | whole memory |
 |`$0000` |`$2000` | Tile memory (8kb)            | Tiles        |
 |`$2000` |`$2020` | Interrupt vector (33bits)    | Interrupt    |
 |`$2020` |`$221F` | Sprite table                 | Sprite table |
