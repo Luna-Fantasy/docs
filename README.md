@@ -28,7 +28,7 @@ A sprite has 2 byte for the X position, 2 bytes for the Y position,
 1 byte for the tileIndex on the Tile memory, 1 byte for the animationIndex,
 1 byte for the blendMode, and 9 bytes for the data, beign 14 bytes long.
 
-A sprite also could be represented on a struct on the assembler language:
+A sprite could also be represented on a struct on the assembler language:
 ```asm
 @struct Sprite {
     x: $02, y: $02,
